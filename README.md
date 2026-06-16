@@ -1,7 +1,8 @@
 # Yashvi Nayak 
 # Final Project _ COMP 2401 A
 
-# Description: This project is a multi-threaded ghost-hunting simulation where hunters and ghosts move between rooms inside a house, interact indirectly through shared evidence, and hunters try to identify the ghost. The house is made up of many connected rooms (13 rooms for this simulation). Each ghost has a specific ghost type and three particualr (unique combination of) evidences that point to this unique ghost type. Each hunter carries one device (at once) and tries to collect matching evidence to identify the ghost.
+# Description: 
+        This project is a multi-threaded ghost-hunting simulation where hunters and ghosts move between rooms inside a house, interact indirectly through shared evidence, and hunters try to identify the ghost. The house is made up of many connected rooms (13 rooms for this simulation). Each ghost has a specific ghost type and three particualr (unique combination of) evidences that point to this unique ghost type. Each hunter carries one device (at once) and tries to collect matching evidence to identify the ghost.
 
 # The simulation ends when: 
         - Hunters gather enough evidence to identify the ghost, or
@@ -48,16 +49,5 @@
                         4. Now you should be able to see the printed info, and user input prompt to further run the program  
                            after giving apropriate user inputs. 
 
-## Bonuses: I have included the Documentation (1%) bonus 
-            -> All .h files have the deoxygen method commenting/documenting of the functions. And all the other files have appropriate                     commenting in each function to understand all the steps taken, and how the program functions. 
-
-
-## Credits: 
-- Developed by Yashvi N.
-
 ## Sources: 
 - COMP 2401 Intro to Systems Programming Course @ Carelton University
-  - instructions and final project guidelines/specifications
-  - lecture slides and chapter codes from the textbook
-  - previous assignments for better understanding of the many similar parts of the code
-  - textbook chapter 2, 3, & 4 in particular to gain a deeper understanding of the concepts to implement in the the project
