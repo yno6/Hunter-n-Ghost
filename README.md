@@ -1,5 +1,5 @@
 # Yashvi Nayak 
-# Final Project _ COMP 2401 A
+        Final Project _ COMP 2401 A
 
 # Description: 
         This project is a multi-threaded ghost-hunting simulation where hunters and ghosts move between rooms inside a house, interact indirectly through shared evidence, and hunters try to identify the ghost. The house is made up of many connected rooms (13 rooms for this simulation). Each ghost has a specific ghost type and three particualr (unique combination of) evidences that point to this unique ghost type. Each hunter carries one device (at once) and tries to collect matching evidence to identify the ghost.
